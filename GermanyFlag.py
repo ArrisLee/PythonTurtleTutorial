@@ -28,4 +28,4 @@ draw_block("black")
 draw_block("red")
 draw_block("yellow")
 
-pen.done()
+turtle.done()
